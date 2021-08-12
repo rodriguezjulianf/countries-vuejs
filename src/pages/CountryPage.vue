@@ -4,7 +4,7 @@
         <CountryPageData :name='country.name' 
         :region='country.region' 
         :capital='country.capital' 
-        :subRegion="country.subRegion" 
+        :subRegion="country.subregion" 
         :population="country.population" 
         :area="country.area"
         :flag="country.flag" 
